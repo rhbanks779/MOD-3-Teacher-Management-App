@@ -58,8 +58,8 @@ export default function AddTeacher(){
                                          <button className="btn btn-success" onClick={saveTeacher}>Save</button>
                                          <button className="btn btn-danger" onClick={cancel} style={{marginLeft: "10px"}}>Cancel</button>
                                         </form>
-                <br></br><br></br>
-                <img src={"https://i.pinimg.com/originals/a3/08/40/a30840e31bfa5b2c9e7a9581a162ba8d.jpg"} alt='mascot' height='25%' width='20%' />
+                                       <br></br><br></br>
+                                      <img src={"https://i.pinimg.com/originals/a3/08/40/a30840e31bfa5b2c9e7a9581a162ba8d.jpg"} alt='mascot' height='25%' width='20%' />
                                 </div>
                             </div>
                         </div>
